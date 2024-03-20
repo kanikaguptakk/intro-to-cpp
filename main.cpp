@@ -4,7 +4,7 @@ int main() {              // code written in main function will be executed
     // declare a variable
     int value;
     // read a value from the keyboard
-    printf("Enter a number:");
+    printf("Enter a num:");
     scanf("%d", &value);   // read the value %d-int, %f-decimal, &-stores the %d/f into the memory address of the value
     // u may be need to use scanf_s (secured version)
     // printing the number
